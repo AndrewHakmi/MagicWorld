@@ -1,10 +1,15 @@
 # ✨Magic✨🌐World
 ### https://magicworld.live
 ## The 🌍World's 1st Decentralized State
+
 ### State Structure:
-**Legislative - GOD** (*Global Online Democracy*)\
-**Executive - MAGIC** (*Machine Artificial General Intelligence Core*)
+
+#### **Legislative - GOD** (*Global Online Democracy*)
+
+#### **Executive - MAGIC** (*Machine Artificial General Intelligence Core*)
+
 ---- 
+
 **GOD**  *ver.* **0.0.1a**  \
 **MAGIC** *ver.* **0.0.1a**
 
