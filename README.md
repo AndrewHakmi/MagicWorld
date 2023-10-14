@@ -4,7 +4,7 @@
 
 ### State Structure:
 
-#### **Legislative - GOD** (*Global Online Democracy*)
+#### **Legislative - GOD** (*Global Online Distribution*)
 
 #### **Executive - MAGIC** (*Machine Artificial General Intelligence Core*)
 
@@ -17,7 +17,7 @@
 
 ### Description
 
-**GOD - Global Online Democracy** - is a decentralized online system that allows users to participate in the legislative process in real-time.
+**GOD - Global Online Distribution** - is a decentralized online system that allows users to participate in the legislative process in real-time.
 The system is based on a peer-to-peer network built on the No-proof Blockchain Protocol, which does not require proofs for consensus.
 Each participant in the system has equal rights and opportunities to participate in discussions and vote on various legislative initiatives. All information in the system is trusted and verified, as each node only receives trusted information.
 After a decision is made by **GOD**, it is passed on to **MAGIC - Machine AGI Core** for execution. This core uses artificial intelligence and cloud methods to carry out decisions made by **GOD** system and records all data in the blockchain.
